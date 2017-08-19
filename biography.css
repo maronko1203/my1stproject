@@ -1,0 +1,38 @@
+/* Scss Document */
+@import url("https://fonts.googleapis.com/css?family=Nixie+One");
+@import url("https://fonts.googleapis.com/css?family=League+Script");
+/*@import url("navistyle.css");*/
+
+.body{
+	background:#000 repeat;
+}
+
+.header{
+	height: 170px;
+}
+
+.biography{
+	text-align: center;
+}
+
+.bandimg{
+	margin-bottom: 124px;
+}
+
+.biotxt{
+	filter:alpha(opacity=80);
+   -ms-filter: "alpha(opacity=80)";
+   -moz-opacity:0.8; 
+   -khtml-opacity: 0.8; 
+   opacity:0.8;
+   zoom:1; 
+}
+
+
+.footer{
+	min-height: 50px;
+	line-height: 50px;
+	color: #fff;
+	text-align:right;
+	vertical-align: middle;
+}
